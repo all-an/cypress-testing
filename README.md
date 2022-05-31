@@ -4,9 +4,6 @@
 
 ## Testando com Cypress
 
-```bash
-npm install cypress --save-dev
-```
 https://github.com/cypress-io/cypress
 
 ## Tecnologias:
@@ -16,7 +13,9 @@ https://github.com/cypress-io/cypress
 ## Instalação e execução:
 
 ```bash
+npm init -y
 npm install cypress --save-dev
+npx cypress open
 ```
 
 ## Autor:

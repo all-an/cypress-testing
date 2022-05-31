@@ -1,0 +1,23 @@
+{
+  "name": "cypress-testing",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r   <a href=\"https://www.cypress.io\"><img src=\"https://cloud.githubusercontent.com/assets/1268976/20607953/d7ae489c-b24a-11e6-9cc4-91c6c74c5e88.png\"/></a>\r </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/all-an/cypress-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/all-an/cypress-testing/issues"
+  },
+  "homepage": "https://github.com/all-an/cypress-testing#readme",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
